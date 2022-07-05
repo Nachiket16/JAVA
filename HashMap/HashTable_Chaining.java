@@ -28,7 +28,7 @@ class MyHash{
 
 }
 
-public class HashTable{
+class HashTable{
 	public static void main (String [] args){
 		MyHash mh = new MyHash(7);
  	    mh.insert(10);
