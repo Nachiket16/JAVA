@@ -1,5 +1,5 @@
 //Insert, Search, Erase
-import java.util.*;
+// import java.util.*;
 class MyHash{
 	int [] arr;
 	int cap, size;
