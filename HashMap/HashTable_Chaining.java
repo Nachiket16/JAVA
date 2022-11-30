@@ -1,4 +1,5 @@
-//import java.util.ArrayList;
+
+import java.util.ArrayList;
 import java.util.*;
 class MyHash{
 	int size; //Reference
@@ -36,7 +37,7 @@ class HashTable{
 	    mh.insert(15);
 	    mh.insert(7);
 	    System.out.println(mh.search(10));
-	    mh.delete(15);
+//	    mh.delete(15);
 	    System.out.println(mh.search(15));
 }
 }
